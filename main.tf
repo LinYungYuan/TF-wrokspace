@@ -10,6 +10,8 @@ module "ec2_with_mandatory_tagging" {
 }
 
 
+
+
 # module "vpc"{
 # source = "terraform-aws-modules/vpc/aws"
 # }
