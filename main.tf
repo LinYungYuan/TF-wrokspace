@@ -7,7 +7,10 @@ module "ec2_with_mandatory_tagging" {
   EndDate = "2021-05-25"
   user_id = "OwneLin"
   Name    = "CBL2-server"
-}
+}   
+
+
+
 
 
 
